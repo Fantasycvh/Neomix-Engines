@@ -1,0 +1,62 @@
+[
+  {
+    "file": "amsfonts.zip",
+    "url": "https://ctan.math.illinois.edu/fonts/amsfonts.zip",
+    "size": 5834307,
+    "sha256": "aaab3930b952128b7ed65260144493eb3d88cb063b50da1f90272e23c7e08ba2"
+  },
+  {
+    "file": "auctex-13.2.tar.gz",
+    "url": "https://ftp.gnu.org/gnu/auctex/auctex-13.2.tar.gz",
+    "size": 1667548,
+    "sha256": "1e7e402abcf846694eba7719925bf095c23ef33a5e6602201c74b6ca60944035"
+  },
+  {
+    "file": "graphite-1.3.15.tar.gz",
+    "url": "https://codeload.github.com/silnrsi/graphite/tar.gz/refs/tags/1.3.15",
+    "size": 13698237,
+    "sha256": "ad47ac120d0fbd80dbc93669afd1074fbbf68af8d1bedf936cf1a433c170f565"
+  },
+  {
+    "file": "icu-78.3.tar.gz",
+    "url": "https://codeload.github.com/unicode-org/icu/tar.gz/refs/tags/release-78.3",
+    "size": 69206189,
+    "sha256": "f06bcab72736ee9d55689033b8198a178562354128cf38edb2afc2e67e3fd931"
+  },
+  {
+    "file": "latex2e-2026-06-01.tar.gz",
+    "url": "https://codeload.github.com/latex3/latex2e/tar.gz/refs/tags/release-2026-06-01",
+    "size": 9667837,
+    "sha256": "4522f9c8d959a00b4af6d9919db78e38910187949dd1a42d1c53e804f3201c05"
+  },
+  {
+    "file": "lm.zip",
+    "url": "https://ctan.math.illinois.edu/fonts/lm.zip",
+    "size": 18709543,
+    "sha256": "71c48809cb50fbfe09c8eddaa251398957c7b243acdf69f7f807268f0d42c939"
+  },
+  {
+    "file": "pgf-3.1.12.tar.gz",
+    "url": "https://codeload.github.com/pgf-tikz/pgf/tar.gz/refs/tags/3.1.12",
+    "size": 9317514,
+    "sha256": "3f3f4f8a68c08831efa4d2088a016163cf49163d441f994e5161edf25d338a6c"
+  },
+  {
+    "file": "pgfplots-1.18.3.tar.gz",
+    "url": "https://codeload.github.com/pgf-tikz/pgfplots/tar.gz/refs/tags/1.18.3",
+    "size": 3557767,
+    "sha256": "a02b91eab2fe20bf4c519c35e315012141e20edd9352ca21bfd030077c5432bf"
+  },
+  {
+    "file": "tectonic-0.17.0.tar.gz",
+    "url": "https://codeload.github.com/tectonic-typesetting/tectonic/tar.gz/refs/tags/tectonic%400.17.0",
+    "size": 3289981,
+    "sha256": "30adda98f67dd5389844f6023adeeb54b5475c17a54b777900644468fbc9765d"
+  },
+  {
+    "file": "tikz-cd.zip",
+    "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/tikz-cd.zip",
+    "size": 285555,
+    "sha256": "c25abc529bd8a5fbc2155b3937584b657f8163776ea19240349039c9187e1515"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "v1-3684708eb9e7eceb",
+  "abi": "arm64-v8a",
+  "archive": "tikz-engine-arm64-v8a-v1.zip",
+  "sha256": "3684708eb9e7ecebcc71ff431097c2e7e5da40d299217b0d6fe4014a5e25244c",
+  "size": 38245878,
+  "files": {
+    "lib/libgraphite2.so": {
+      "size": 1515616,
+      "sha256": "0254afa5241f08e0f87630f7777d5307dc67e694a47dd0efa0d8f9fd01f8e533"
+    },
+    "lib/libicudata78.so": {
+      "size": 33108832,
+      "sha256": "24d24ae9b5a2a85c33a9f1e11476c9929a6ff605edf2f8e5d30875845b703a99"
+    },
+    "lib/libicuuc78.so": {
+      "size": 2218249,
+      "sha256": "cc38fcf7a5dafbfcf2c81703c00232befa5d847fdb62d1c30681b248dc42aaf6"
+    },
+    "lib/libtex_poc.so": {
+      "size": 13505057,
+      "sha256": "68c1f53a998893af059ad91b56705f53c5929472599af1a12316e274233a7e83"
+    },
+    "tex/droidsans.ttf": {
+      "size": 8331336,
+      "sha256": "faa6c9df652116dde789d351359f3d7e5d2285a2b2a1f04a2d7244df706d5ea9"
+    },
+    "tex/tectonic-bundle-v3.tikzbundle": {
+      "size": 15001654,
+      "sha256": "18791689eb3b40925c2473bce086ad88316689fa594b95fa79f4c4e56ac18c4c"
+    }
+  }
+}
